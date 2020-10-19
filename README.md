@@ -17,6 +17,8 @@
 
   Eclipse Theia is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web  technologies.
 
+https://github.com/eclipse-theia/theia/tree/master/packages/navigator
+
   **Theia 1.0 has been released. Read the [announcement](https://dev.to/svenefftinge/theia-1-0-finally-a-good-browser-ide-3ok0).**
 
 </div>
